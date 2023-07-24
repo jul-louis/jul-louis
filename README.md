@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 -->
 # Introduction
 
-• https://krakenlouis.com. University of Alberta '23 Computer Engineering, Software Engineering\
+• https://krakenlouis.com. University of Alberta '23 Computer Engineering, Software Engineering
 
-• Experience in application development through coursework and self-directed projects on the web and mobile platforms with PhpStorm, Android Studio, Visual Studio, etc.\
+• Experience in application development through coursework and self-directed projects on the web and mobile platforms with PhpStorm, Android Studio, Visual Studio, etc.
 
-• Demonstrated a strong passion and proficiency in full-stack software development, encompassing blockchain development, microservices, APIs, database management (MySQL & MongoDB), UI/UX design, JetBrains IDE, Atlassian tools, AWS, Azure, MS SQL Server, and MS Office.\
+• Demonstrated a strong passion and proficiency in full-stack software development, encompassing blockchain development, microservices, APIs, database management (MySQL & MongoDB), UI/UX design, JetBrains IDE, Atlassian tools, AWS, Azure, MS SQL Server, and MS Office.
 
 # Education
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
