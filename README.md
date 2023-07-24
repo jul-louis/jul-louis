@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github pages
 
 <!--
 **jul-louis/jul-louis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Introduction
 
-• krakenlouis.com. University of Alberta '23 Computer Engineering, Software Engineering
+• https://krakenlouis.com. University of Alberta '23 Computer Engineering, Software Engineering
 
 • Experience in application development through coursework and self-directed projects on the web and mobile platforms with PhpStorm, Android Studio, Visual Studio, etc.
 
