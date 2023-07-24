@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 • Experience in application development through coursework and self-directed projects on the web and mobile platforms with PhpStorm, Android Studio, Visual Studio, etc.
 
 • Demonstrated a strong passion and proficiency in full-stack software development, encompassing blockchain development, microservices, APIs, database management (MySQL & MongoDB), UI/UX design, JetBrains IDE, Atlassian tools, AWS, Azure, MS SQL Server, and MS Office.
+
+# Education
+
+# Projects
