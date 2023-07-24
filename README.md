@@ -23,5 +23,8 @@ Here are some ideas to get you started:
 • Demonstrated a strong passion and proficiency in full-stack software development, encompassing blockchain development, microservices, APIs, database management (MySQL & MongoDB), UI/UX design, JetBrains IDE, Atlassian tools, AWS, Azure, MS SQL Server, and MS Office.
 
 # Education
+## BSc in Computer Engineering, Software Engineering Option, with Distinction
+Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)
+Relevant Courses: 
 
 # Projects
