@@ -26,8 +26,11 @@ Here are some ideas to get you started:
 
 # Education
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
-The University of Alberta\
+**University of Alberta**\
 Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)\
 Relevant Courses: Software System Design, Software Testing & Maintenance, Software Engineering, Database Design 
 
 # Projects
+**NFT Minting & Contract Management System**
+**Mooc Learning System**
+**Andoird Social App: Habit Tracker**
