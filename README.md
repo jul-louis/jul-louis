@@ -1,3 +1,5 @@
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/jul-louis/jul-louis/blob/main/Kraken%20Louis.png?raw=true))
+
 ### Hi there 👋 Welcome to my Github pages
 
 <!--
