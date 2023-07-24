@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 # Education
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
-Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)
-Relevant Courses: 
+The University of Alberta\
+Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)\
+Relevant Courses: Software System Design, Software Testing & Maintenance, Software Engineering, Database Design 
 
 # Projects
