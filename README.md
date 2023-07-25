@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 
 • Demonstrated a strong passion and proficiency in full-stack software development, encompassing blockchain development, microservices, APIs, database management (MySQL & MongoDB), UI/UX design, JetBrains IDE, Atlassian tools, AWS, Azure, MS SQL Server, and MS Office.
 
+# Technical Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 # Education
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
 **University of Alberta**\
