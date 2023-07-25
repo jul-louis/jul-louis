@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 • Demonstrated a strong passion and proficiency in full-stack software development, encompassing blockchain development, microservices, APIs, database management (MySQL & MongoDB), UI/UX design, JetBrains IDE, Atlassian tools, AWS, Azure, MS SQL Server, and MS Office.
 
 # Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,go,rust,c,cpp,php,aws,azure,heroku,bootstrap,github,vite,react,wasm,html,css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,go,rust,c,cpp,php,aws,azure,heroku,bootstrap,github,vite,react,wasm,html,css&perline=6)](https://skillicons.dev)
 
 # Education
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
