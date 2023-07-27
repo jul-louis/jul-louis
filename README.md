@@ -1,6 +1,6 @@
 ![alt text](https://github.com/jul-louis/jul-louis/blob/main/Kraken%20Louis.png?raw=true)
 
-### Hi there 👋 Welcome to my Github pages
+### Hi there 👋 Welcome to my GitHub pages
 
 <!--
 **jul-louis/jul-louis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +34,6 @@ Awards & Scholarships: International Continuing Award (2021), International Stud
 Relevant Courses: Software System Design, Software Testing & Maintenance, Software Engineering, Database Design 
 
 # Projects
-**NFT Minting & Contract Management System**\
+<a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System</b></a>\
 **Mooc Learning System**\
-**Andoird Social App: Habit Tracker**\
+**Andoird Social App: Habit Tracker**
