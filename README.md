@@ -37,3 +37,6 @@ Relevant Courses: Software System Design, Software Testing & Maintenance, Softwa
 <a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System</b></a>\
 **Mooc Learning System**\
 **Andoird Social App: Habit Tracker**
+
+# Programming Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
