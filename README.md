@@ -39,4 +39,4 @@ Relevant Courses: Software System Design, Software Testing & Maintenance, Softwa
 **Andoird Social App: Habit Tracker**
 
 # Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul-louis&layout=compact)
