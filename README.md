@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 # Introduction
 
-• ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) https://krakenlouis.com. University of Alberta '23 Computer Engineering, Software Engineering
+• Portfolio & Personal Site: https://krakenlouis.com. University of Alberta '23 Computer Engineering, Software Engineering
 
 • Experience in application development through coursework and self-directed projects on the web and mobile platforms with PhpStorm, Android Studio, Visual Studio, etc.
 
