@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 # Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,go,rust,c,cpp,php,aws,azure,heroku,bootstrap,github,vite,react,wasm,html,css&perline=6)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul-louis&layout=compact)
+
 
 # Education
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
