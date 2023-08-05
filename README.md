@@ -42,5 +42,7 @@ Relevant Courses: Software System Design, Software Testing & Maintenance, Softwa
 
 # Work Samples
 ![alt=text](https://github.com/jul-louis/Charity/blob/main/Screen%20Shot%202023-08-04%20at%2010.24.51%20PM.png?raw=true)
+<!--
 # Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul-louis&layout=compact)
+-->
