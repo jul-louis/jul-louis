@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)\
 Relevant Courses: Software System Design, Software Testing & Maintenance, Software Engineering, Database Design 
 
-# Projects
-<a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System</b></a>\
-**Mooc Learning System**\
-**Andoird Social App: Habit Tracker**
+# Greate Projects
+<a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System w/Hyperledger Fabric Private Blockchain</b></a>\
+**Php/MySQL Mooc Learning & Management System**\
+<a href="https://github.com/CMPUT301F21T45/GoAlog/wiki" target="_blank"><b>Java Andoird Social App: Habit Tracker</b></a>
 
 # Work Samples
 ![alt=text](https://github.com/jul-louis/Charity/blob/main/Screen%20Shot%202023-08-04%20at%2010.24.51%20PM.png?raw=true)
