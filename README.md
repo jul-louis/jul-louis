@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
 **University of Alberta**\
 Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)\
-Relevant Courses: Software System Design, Software Testing & Maintenance, Software Engineering, Database Design 
+Relevant Courses: Software System Design, Intelligent Systems, Software Testing & Maintenance, Software Engineering, Database Design 
 
 # Greate Projects
 <a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System w/Hyperledger Fabric Private Blockchain</b></a>\
@@ -42,7 +42,3 @@ Relevant Courses: Software System Design, Software Testing & Maintenance, Softwa
 
 # Work Samples
 ![alt=text](https://github.com/jul-louis/Charity/blob/main/Screen%20Shot%202023-08-04%20at%2010.24.51%20PM.png?raw=true)
-<!--
-# Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul-louis&layout=compact)
--->
