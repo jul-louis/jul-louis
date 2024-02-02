@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 • Demonstrated a strong passion and proficiency in full-stack software development, encompassing blockchain development, microservices, APIs, database management (MySQL & MongoDB), UI/UX design, JetBrains IDE, Atlassian tools, AWS, Azure, MS SQL Server, and MS Office.
 
-• Current <a href="https://github.com/jul-louis/Resume/blob/main/Resume-LouisKano.pdf"><b>Resume</b></a>
+<!--• Current <a href="https://github.com/jul-louis/Resume/blob/main/Resume-LouisKano.pdf"><b>Resume</b></a>-->
 
 # Technical Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,go,rust,c,cpp,php,aws,azure,heroku,bootstrap,github,vite,react,wasm,html,css&perline=6)](https://skillicons.dev)
@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
 **University of Alberta**\
 Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)\
-Relevant Courses: Software System Design, Intelligent Systems, Software Testing & Maintenance, Software Engineering, Database Design 
+Relevant Courses: Software System Design, Intelligent Systems, Software Testing & Maintenance, Software Engineering, Database Design
+## MSc in Computer Science, Machine Learning
+** Georgia Institute of Technology**\
 
 # Greate Projects
 <a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System w/Hyperledger Fabric Private Blockchain</b></a>\
