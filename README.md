@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)\
 Relevant Courses: Software System Design, Intelligent Systems, Software Testing & Maintenance, Software Engineering, Database Design
 ## MSc in Computer Science, Machine Learning
-** Georgia Institute of Technology**\
+**Georgia Institute of Technology**
 
 # Greate Projects
 <a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System w/Hyperledger Fabric Private Blockchain</b></a>\
