@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jul-louis&layout=compact)
 
 
+# Past Industrial Collaborations
+## EFNpro
+
 # Education
 ## BSc in Computer Engineering, Software Engineering Option, with Distinction
 **University of Alberta**\
@@ -41,7 +44,7 @@ Relevant Courses: Software System Design, Intelligent Systems, Software Testing 
 ## MEng in Electrical and Computer Engineering
 **Queen's University**
 
-# Greate Projects
+# Great Projects
 <a href="https://github.com/jul-louis/Capstone-NFTMintingContractManagementSystem" target="_blank"><b>NFT Minting & Contract Management System w/Hyperledger Fabric Private Blockchain</b></a>\
 **Php/MySQL Mooc Learning & Management System**\
 <a href="https://github.com/CMPUT301F21T45/GoAlog/wiki" target="_blank"><b>Java Andoird Social App: Habit Tracker</b></a>
