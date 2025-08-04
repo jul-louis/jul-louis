@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 **University of Alberta**\
 Awards & Scholarships: International Continuing Award (2021), International Student Scholarships (2018, 2019)\
 Relevant Courses: Software System Design, Intelligent Systems, Software Testing & Maintenance, Software Engineering, Database Design
-## MSc in Computer Science, Machine Learning, GPA: 4.0
+## MSc in Computer Science, Machine Learning, GPA: 4.0 (Present)
 **Georgia Institute of Technology**
 ## MEng in Electrical and Computer Engineering, GPA: 3.93
 **Queen's University**
